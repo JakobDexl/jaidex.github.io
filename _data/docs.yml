@@ -1,3 +1,8 @@
+- title: Machine Learning
+  docs:
+  - mlintro
+  - knn
+
 - title: Getting Started
   docs:
   - home

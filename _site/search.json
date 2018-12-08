@@ -4,6 +4,24 @@
     
     
     {
+      "title": "Introduction",
+      "url": "/docs/mlintro/"
+
+    },
+  
+    
+    
+    {
+      "title": "knn",
+      "url": "/docs/knn/"
+
+    },
+  
+
+  
+    
+    
+    {
       "title": "Welcome",
       "url": "/docs/home/"
 
