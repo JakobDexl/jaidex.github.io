@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Hi Max! Here are some great resources for getting started"
+---
+![My helpful screenshot](/assets/screenshot.png)
+
+# Git
+Managing system for keeping our page uptodate <br />
+[git](https://git-scm.com/book/en/v2) <br />
+
+# GitHub
+host of the page <br />
+[github](https://guides.github.com/activities/hello-world/) <br />
+[gh-pages_dependencies](https://pages.github.com/versions/) <br />
+
+# Jekyll
+Basics, static page generator<br />
+[quickstart](https://jekyllrb.com/docs/) <br />
+[posts](https://jekyllrb.com/docs/posts/) <br />
+
+Build themes (expert) if u have some time <br />
+[part1](https://www.siteleaf.com/blog/making-your-first-jekyll-theme-part-1/) <br />
+[part2](https://www.siteleaf.com/blog/making-your-first-jekyll-theme-part-2/) <br />
+
+Builder <br />
+[builder](https://help.dreamhost.com/hc/en-us/articles/115001070131-Using-Bundler-to-install-Ruby-gems) <br />
+
+# Markdown
+the easy language of readme's and this post <br />
+[markdown](https://www.markdowntutorial.com/) <br />
+
+# Actual theme
+cool project <br />
+[readthedocs-jekyll](https://github.com/pawamoy/jekyll-readthedocs) <br />
+
+# ML
+place for good ml resources during build <br />
+[MLmastery](https://machinelearningmastery.com/) <br />
+[MLcheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/) <br />
