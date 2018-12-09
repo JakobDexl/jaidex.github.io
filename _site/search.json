@@ -4,6 +4,16 @@
     
     
     {
+      "title": "",
+      "url": ""
+
+    },
+  
+
+  
+    
+    
+    {
       "title": "Introduction",
       "url": "/docs/mlintro/"
 
@@ -12,8 +22,56 @@
     
     
     {
+      "title": "Bayes",
+      "url": "/docs/bayes/"
+
+    },
+  
+    
+    
+    {
       "title": "knn",
       "url": "/docs/knn/"
+
+    },
+  
+    
+    
+    {
+      "title": "Logistic Regression",
+      "url": "/docs/logistic_regression/"
+
+    },
+  
+    
+    
+    {
+      "title": "Linear Regression",
+      "url": "/docs/linear_regression/"
+
+    },
+  
+    
+    
+    {
+      "title": "Norms",
+      "url": "/docs/norms/"
+
+    },
+  
+    
+    
+    {
+      "title": "Penalty Functions",
+      "url": "/docs/penalty_functions/"
+
+    },
+  
+    
+    
+    {
+      "title": "",
+      "url": ""
 
     },
   

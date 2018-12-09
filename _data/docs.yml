@@ -1,16 +1,24 @@
+- title: Maths
+  docs:
+    -
 - title: Machine Learning
   docs:
-  - mlintro
-  - knn
-
+    - mlintro
+    - bayes
+    - knn
+    - logistic_regression
+    - linear_regression
+    - norms
+    - penalty_functions
+    - svm
 - title: Getting Started
   docs:
-  - home
-  - themes
-  - customization
+    - home
+    - themes
+    - customization
 
 - title: Examples
   docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
+    - cheatsheet
+    - font-awesome
+    - bootstrap
