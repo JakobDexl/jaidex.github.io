@@ -30,6 +30,7 @@ the easy language of readme's and this post <br />
 [markdown](https://www.markdowntutorial.com/) <br />
 
 # Actual theme
+[docs](https://github.com/aksakalli/jekyll-doc-theme/issues/21)<br />
 cool project <br />
 [readthedocs-jekyll](https://github.com/pawamoy/jekyll-readthedocs) <br />
 
