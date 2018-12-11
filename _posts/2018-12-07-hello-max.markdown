@@ -38,3 +38,4 @@ cool project <br />
 place for good ml resources during build <br />
 [MLmastery](https://machinelearningmastery.com/) <br />
 [MLcheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/) <br />
+[SVM](https://www.svm-tutorial.com/) <br />
