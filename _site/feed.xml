@@ -1,40 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2018-12-11T12:25:43+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">jAI</title><subtitle>Jekyll Template for Project Websites providing documentation and blog post pages.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2018-12-14T00:31:32+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">jAI</title><subtitle>Doc and Blog about Machinelearning, Deeplearning, Maths and Computer for beginners as well as experts.
 </subtitle><entry><title type="html">Hi Max! Here are some great resources for getting started</title><link href="http://localhost:4000/blog/2018/12/07/hello-max/" rel="alternate" type="text/html" title="Hi Max! Here are some great resources for getting started" /><published>2018-12-07T00:00:00+01:00</published><updated>2018-12-07T00:00:00+01:00</updated><id>http://localhost:4000/blog/2018/12/07/hello-max</id><content type="html" xml:base="http://localhost:4000/blog/2018/12/07/hello-max/">&lt;p&gt;&lt;img src=&quot;/assets/screenshot.png&quot; alt=&quot;My helpful screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;git&quot;&gt;Git&lt;/h1&gt;
+&lt;h3 id=&quot;git&quot;&gt;Git&lt;/h3&gt;
 &lt;p&gt;Managing system for keeping our page uptodate &lt;br /&gt;
 &lt;a href=&quot;https://git-scm.com/book/en/v2&quot;&gt;git&lt;/a&gt; &lt;br /&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;github&quot;&gt;GitHub&lt;/h1&gt;
+&lt;h3 id=&quot;github&quot;&gt;GitHub&lt;/h3&gt;
 &lt;p&gt;host of the page &lt;br /&gt;
 &lt;a href=&quot;https://guides.github.com/activities/hello-world/&quot;&gt;github&lt;/a&gt; &lt;br /&gt;
 &lt;a href=&quot;https://pages.github.com/versions/&quot;&gt;gh-pages_dependencies&lt;/a&gt; &lt;br /&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;jekyll&quot;&gt;Jekyll&lt;/h1&gt;
+&lt;h3 id=&quot;jekyll&quot;&gt;Jekyll&lt;/h3&gt;
 &lt;p&gt;Basics, static page generator&lt;br /&gt;
 &lt;a href=&quot;https://jekyllrb.com/docs/&quot;&gt;quickstart&lt;/a&gt; &lt;br /&gt;
 &lt;a href=&quot;https://jekyllrb.com/docs/posts/&quot;&gt;posts&lt;/a&gt; &lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Build themes (expert) if u have some time &lt;br /&gt;
-&lt;a href=&quot;https://www.siteleaf.com/blog/making-your-first-jekyll-theme-part-1/&quot;&gt;part1&lt;/a&gt; &lt;br /&gt;
+&lt;p&gt;Build themes (expert) if u have some time &lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;max&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;laub&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;max&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.siteleaf.com/blog/making-your-first-jekyll-theme-part-1/&quot;&gt;part1&lt;/a&gt; &lt;br /&gt;
 &lt;a href=&quot;https://www.siteleaf.com/blog/making-your-first-jekyll-theme-part-2/&quot;&gt;part2&lt;/a&gt; &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Builder &lt;br /&gt;
 &lt;a href=&quot;https://help.dreamhost.com/hc/en-us/articles/115001070131-Using-Bundler-to-install-Ruby-gems&quot;&gt;builder&lt;/a&gt; &lt;br /&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;markdown&quot;&gt;Markdown&lt;/h1&gt;
+&lt;h3 id=&quot;markdown&quot;&gt;Markdown&lt;/h3&gt;
 &lt;p&gt;the easy language of readme’s and this post &lt;br /&gt;
 &lt;a href=&quot;https://www.markdowntutorial.com/&quot;&gt;markdown&lt;/a&gt; &lt;br /&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;actual-theme&quot;&gt;Actual theme&lt;/h1&gt;
+&lt;h3 id=&quot;actual-theme&quot;&gt;Actual theme&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/aksakalli/jekyll-doc-theme/issues/21&quot;&gt;docs&lt;/a&gt;&lt;br /&gt;
 cool project &lt;br /&gt;
 &lt;a href=&quot;https://github.com/pawamoy/jekyll-readthedocs&quot;&gt;readthedocs-jekyll&lt;/a&gt; &lt;br /&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;ml&quot;&gt;ML&lt;/h1&gt;
+&lt;h3 id=&quot;ml&quot;&gt;ML&lt;/h3&gt;
 &lt;p&gt;place for good ml resources during build &lt;br /&gt;
 &lt;a href=&quot;https://machinelearningmastery.com/&quot;&gt;MLmastery&lt;/a&gt; &lt;br /&gt;
-&lt;a href=&quot;https://ml-cheatsheet.readthedocs.io/en/latest/&quot;&gt;MLcheatsheet&lt;/a&gt; &lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Jekyll Doc Theme is published!</title><link href="http://localhost:4000/blog/2017/05/03/jekyll-doc-theme/" rel="alternate" type="text/html" title="Jekyll Doc Theme is published!" /><published>2017-05-03T00:00:00+02:00</published><updated>2017-05-03T00:00:00+02:00</updated><id>http://localhost:4000/blog/2017/05/03/jekyll-doc-theme</id><content type="html" xml:base="http://localhost:4000/blog/2017/05/03/jekyll-doc-theme/">&lt;p&gt;A new custom Jekyll theme for documentation and blogging is out. It is ideal for Open Source Software projects to publish under &lt;a href=&quot;https://pages.github.com&quot;&gt;GitHub Pages&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&quot;https://ml-cheatsheet.readthedocs.io/en/latest/&quot;&gt;MLcheatsheet&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&quot;https://www.svm-tutorial.com/&quot;&gt;SVM&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&quot;https://dzone.com/articles/naive-bayes-tutorial-naive-bayes-classifier-in-pyt/&quot;&gt;Bayes&lt;/a&gt; &lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Jekyll Doc Theme is published!</title><link href="http://localhost:4000/blog/2017/05/03/jekyll-doc-theme/" rel="alternate" type="text/html" title="Jekyll Doc Theme is published!" /><published>2017-05-03T00:00:00+02:00</published><updated>2017-05-03T00:00:00+02:00</updated><id>http://localhost:4000/blog/2017/05/03/jekyll-doc-theme</id><content type="html" xml:base="http://localhost:4000/blog/2017/05/03/jekyll-doc-theme/">&lt;p&gt;A new custom Jekyll theme for documentation and blogging is out. It is ideal for Open Source Software projects to publish under &lt;a href=&quot;https://pages.github.com&quot;&gt;GitHub Pages&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Your contribution is welcome!&lt;/p&gt;</content><author><name>aksakalli</name></author><summary type="html">A new custom Jekyll theme for documentation and blogging is out. It is ideal for Open Source Software projects to publish under GitHub Pages.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/blog/2017/02/01/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-02-01T10:41:09+01:00</published><updated>2017-02-01T10:41:09+01:00</updated><id>http://localhost:4000/blog/2017/02/01/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/blog/2017/02/01/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 

@@ -1,16 +1,3 @@
-- title: Maths
-  docs:
-    -
-- title: Machine Learning
-  docs:
-    - mlintro
-    - bayes
-    - knn
-    - logistic_regression
-    - linear_regression
-    - norms
-    - penalty_functions
-    - svm
 - title: Getting Started
   docs:
     - home

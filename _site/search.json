@@ -9,61 +9,11 @@
 
     },
   
-
-  
     
     
     {
-      "title": "Introduction",
-      "url": "/docs/mlintro/"
-
-    },
-  
-    
-    
-    {
-      "title": "Bayes",
-      "url": "/docs/bayes/"
-
-    },
-  
-    
-    
-    {
-      "title": "knn",
-      "url": "/docs/knn/"
-
-    },
-  
-    
-    
-    {
-      "title": "Logistic Regression",
-      "url": "/docs/logistic_regression/"
-
-    },
-  
-    
-    
-    {
-      "title": "Linear Regression",
-      "url": "/docs/linear_regression/"
-
-    },
-  
-    
-    
-    {
-      "title": "Norms",
-      "url": "/docs/norms/"
-
-    },
-  
-    
-    
-    {
-      "title": "Penalty Functions",
-      "url": "/docs/penalty_functions/"
+      "title": "",
+      "url": ""
 
     },
   
@@ -80,50 +30,24 @@
     
     
     {
-      "title": "Welcome",
-      "url": "/docs/home/"
+      "title": "",
+      "url": ""
 
     },
   
     
     
     {
-      "title": "Themes",
-      "url": "/docs/themes/"
+      "title": "",
+      "url": ""
 
     },
   
     
     
     {
-      "title": "Customization",
-      "url": "/docs/customization/"
-
-    },
-  
-
-  
-    
-    
-    {
-      "title": "Markdown Cheatsheet",
-      "url": "/docs/cheatsheet/"
-
-    },
-  
-    
-    
-    {
-      "title": "Font Awesome Icon List",
-      "url": "/docs/font-awesome/"
-
-    },
-  
-    
-    
-    {
-      "title": "Bootstrap Features",
-      "url": "/docs/bootstrap/"
+      "title": "",
+      "url": ""
 
     },
   

@@ -1,0 +1,18 @@
+- title: Overview
+  docs:
+    - home
+- title: Bayes
+  docs:
+    - bayes
+- title: KNN
+  docs:
+    - knn
+- title: Logistic Regression
+  docs:
+    - logistic_regression
+- title: Linear Regression
+  docs:
+    - linear_regression
+    - norms
+    - penalty_functions
+    - svm
