@@ -1,6 +1,6 @@
 # Jekyll Doc Theme
 
-Go to [the website](https://aksakalli.github.io/jekyll-doc-theme/) for detailed information and demo.
+
 
 ## Running locally
 
@@ -18,23 +18,7 @@ cd jekyll-doc-theme
 bundle exec jekyll serve
 ```
 
-## Docker
-
-Alternatively, you can deploy it using the multi-stage [Dockerfile](Dockerfile)
-that serves files from Nginx for better performance in production.
-
-Build the image for your site's `JEKYLL_BASEURL`:
-
-```
-docker build --build-arg JEKYLL_BASEURL="/" -t jekyll-doc-theme .
-```
-
-and serve it:
-
-```
-docker run -p 8080:80 jekyll-doc-theme
-```
-
 ## License
 
+Fork from [the website](https://aksakalli.github.io/jekyll-doc-theme/) for detailed information and demo.
 Released under [the MIT license](LICENSE).
