@@ -6814,12 +6814,6 @@ body {
   width: 100%;
   margin: auto 0px;
   /*margin-top: -446px;*/
-  -webkit-animation-name: test;
-  animation-timing-function: ease-in-out;
-  -webkit-animation-duration: 10s;
-  -webkit-animation-iteration-count: infinite;
-  -webkit-animation-direction: alternate;
-  -webkit-animation-timing-function: linear;
   background-size: cover;
   background-position: center 36%;
   margin-top: -37px; }

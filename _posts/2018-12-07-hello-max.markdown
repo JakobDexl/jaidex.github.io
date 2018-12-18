@@ -2,6 +2,8 @@
 layout: post
 title:  "Hi Max! Here are some great resources for getting started"
 ---
+
+
 ![My helpful screenshot](/assets/screenshot.png)
 
 ### Git
@@ -20,7 +22,22 @@ Basics, static page generator<br />
 [quickstart](https://jekyllrb.com/docs/) <br />
 [posts](https://jekyllrb.com/docs/posts/) <br />
 
+$$ \alpha $$
+<br />
+
+>"this is a quote"
+
+- fd
+- ff
+- df
+<br />
+
+this is a formula
+
+$$ w_k = \alpha - \frac{\partial L(x)}{\partial x} $$
+
 Build themes (expert) if u have some time <br />
+
 ```python
 def function(x,y):
   max = laub

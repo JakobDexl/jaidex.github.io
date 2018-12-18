@@ -29,7 +29,6 @@
     <link rel="alternate" type="application/rss+xml" title="jAI" href="http://localhost:4000/feed.xml" />
 </head>
 
-
 <body>
 
     <nav class="navbar navbar-default navbar-fixed-top">
@@ -71,11 +70,15 @@
 
     <div class="page-content">
         <div class="wrapper">
+
             <div class="header-container jumbotron">
     <div class="container">
-        <h1>Lederlappen MAX anoying homepage</h1>
-        <p>Simple and modern design for publishing blog posts, documentation and many more things for your project.
-          You can now clone and start to create a website for your project like this one.</p>
+        <h1>Another AI Blog/Documentary</h1>
+        <p>There are several brilliant AI/ML/DL blogs out there (some in the references).
+        For me it was difficult to find a resource which gets the transition between beginner and expert.
+        Therefore this page provides everything from math to code.
+         \alpha \partial L
+      </p>
         <p><a class="btn btn-primary btn-lg" href="/docs/home/" role="button">Learn more</a></p>
     </div>
 </div>
@@ -129,6 +132,42 @@
 
         </div>
     </div>
+    <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    extensions: [
+      "MathMenu.js",
+      "MathZoom.js",
+      "AssistiveMML.js",
+      "a11y/accessibility-menu.js"
+    ],
+    jax: ["input/TeX", "output/CommonHTML"],
+    TeX: {
+      extensions: [
+        "AMSmath.js",
+        "AMSsymbols.js",
+        "noErrors.js",
+        "noUndefined.js",
+      ]
+    }
+  });
+  MathJax.Hub.Register.StartupHook("TeX Jax Ready",function () {
+    var TEX = MathJax.InputJax.TeX;
+    var COLS = function (W) {
+      var WW = [];
+      for (var i = 0, m = W.length; i < m; i++)
+        {WW[i] = TEX.Parse.prototype.Em(W[i])}
+      return WW.join(" ");
+    };
+    TEX.Definitions.Add({
+      environment: {
+        psmallmatrix: ['Array',null,'(',')','c',COLS([1/3]),".2em",'S',1],
+      }
+    });
+  });
+</script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js">
+</script>
 
     <footer class="footer">
     <div class="container">
@@ -151,5 +190,3 @@
 <script src="/js/main.js "></script>
 
 </body>
-
-</html>
