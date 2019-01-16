@@ -64,3 +64,7 @@ place for good ml resources during build <br />
 [MLcheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/) <br />
 [SVM](https://www.svm-tutorial.com/) <br />
 [Bayes](https://dzone.com/articles/naive-bayes-tutorial-naive-bayes-classifier-in-pyt/) <br />
+[ML/MAP](https://wiseodd.github.io/techblog/) <br />
+[GMM](https://www.geeksforgeeks.org/gaussian-mixture-model/) <br />
+[SVM/GMM](https://xavierbourretsicotte.github.io/)
+ <br />
